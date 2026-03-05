@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Spreadsheet Form Builder",
+  "description": "Connects to an existing Google Spreadsheet and generates a form based on its columns.",
+  "requestFramePermissions": []
+}
